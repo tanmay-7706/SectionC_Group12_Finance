@@ -4,7 +4,7 @@
 
 ---
 
-![Dashboard Preview](<img width="737" height="648" alt="Screenshot 2026-02-18 at 11 01 44 PM" src="https://github.com/user-attachments/assets/dcfe77e4-c986-4d33-a4f1-5db7001beb30" />)
+(<img width="737" height="648" alt="Screenshot 2026-02-18 at 11 01 44 PM" src="https://github.com/user-attachments/assets/dcfe77e4-c986-4d33-a4f1-5db7001beb30" />)
 
 
 ---
